@@ -7,7 +7,7 @@ var Main = (props) => {
 			<div>
 				<div>
 					<Nav/>
-					{/*{props.children}*/}
+					{props.children}
 				</div>
 			</div>
 		</div>
